@@ -1,0 +1,16 @@
+Class name: Redirection
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* overwrite the contents of a given file with the output of another command
+* append the output of another command to the contents of a given file
+* create files to perform either of the above tasks when necessary
+
+Collaborators:
+* Error
+* File
+* Path
+* FileSystemNode
+* Shell
+* OutputFile

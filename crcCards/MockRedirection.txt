@@ -1,0 +1,11 @@
+Class name: MockRedirection
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide mock implementation of the methods in IRedirection for testing
+
+Collaborators:
+MockShell
+Path
+FileSystemNode

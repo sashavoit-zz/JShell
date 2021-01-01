@@ -1,0 +1,59 @@
+Backlog item    			| Estimate 
+----------------------------------------|-----------------
+1. Remove directory from the file	|	2 h
+system tree using rm.			|
+					|
+2. Create a multiple directories using	|	1 h
+a single mkdir command			|
+					|
+3. Recursively list all subdirectories 	|	2 h
+of given directory using ls with	|
+-R option				|
+					|
+4. Move node at given path to the	|	2-3 h
+new location at given path using mv	|
+					|
+5. Copy node at given path to the	|	2-3 h
+new location at given path using cp	|
+					|
+6. List contents of multiple files 	|	1 h
+using cat				|
+					|
+7.  Retrieve the file at the URL	|	3-4 h
+and add it to the current working 	|
+directory using curl			|
+					|
+8. Save the current state of Shell	|	4-5 h
+to a file in the computer's memory	|
+					|
+9. Load the state of Shell from		|	4-5 h
+existing file in the computer's memory	|
+					|
+10. Look for nodes of given type	|	3 h
+at given location with given name 	|
+using find command			|
+					|
+11. Print the the current file tree	|	2-3 h
+using tree command			|
+					|
+12. Save contents of multiple files to 	|	1-2 h
+another file using cat command		|
+					|
+13. Save the path to current working 	|	1-2 h
+directory to a file using pwd command	|			
+					|
+14. Save the contents of the directory 	|	1-2 h
+to a file using ls command		|
+					|
+15. Save the current file system tree to|	1-2 h
+a file using tree command		|
+					|
+16. Save history of executed commands to|	1-2 h
+a file using history command		|
+					|
+17. Save the documentation for given 	|	1-2 h
+command to a file using man command	|
+					|
+18. Save for nodes of given type	|	1-2 h
+at given location with given name 	|
+using file command			|

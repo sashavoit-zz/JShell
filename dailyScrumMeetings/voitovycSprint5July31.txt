@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - finished all my tasks for sprint 5:
+	  - finished implementing mock versions of jShell.fileSystem classes and UserData for Unit testing
+          - added thorough testing of Mkdir, Ls, FileSystem, Path, Save and Load
+          - fixed encountered bugs in above classes
+
+What do I plan to work in the next three days?
+    - add missing javadocs and comments to my classes
+    - run test Shell sessions to spot bugs
+    - fix any newly encountered bugs
+
+Am I blocked on anything?
+    - no

@@ -1,0 +1,13 @@
+Class name: Pushd
+Parent class (if any): Command
+Subclasses (if any): none
+
+Responsibilities:
+* push the current working directory onto the directory stack
+* changes current working directory to new directory
+* check if new directory exists
+
+Collaborators:
+* UserData
+* Shell
+* Path

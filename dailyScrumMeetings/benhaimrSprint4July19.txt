@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Brainstormmed new design with my team
+	- Updated and check some CRC cards
+	- Worked on the cp and mv commands
+
+What do I plan to work on in the next three days?
+	- Test the mv and cp commands
+	- Finish and test the find command
+
+Am I blocked on anything?
+	- Should the find command search for files recursively? 

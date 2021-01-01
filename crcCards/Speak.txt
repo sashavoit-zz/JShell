@@ -1,0 +1,10 @@
+Class name: Speak
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* print out audible representation of text entered by the user
+* if nothing entered, keep waiting for user input; stop the input process, if user types QUIT
+
+Collaborators:
+* Shell

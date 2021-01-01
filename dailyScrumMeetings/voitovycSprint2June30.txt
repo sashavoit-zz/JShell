@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - worked on my tasks from Sprint 2:
+	- started and finished ls
+	- tested ls to make sure it's ready for the demo
+	- tested mkdir to make sure it's ready for the demo
+
+What do I plan to work in the next three days?
+    - rethink design of Path and FileSystem 
+    - collaborate with team members to ensure command classes are changed accordingly to Path and FileSystem
+    - adjust isValid function in commands to make sure it returns an error message
+
+Am I blocked on anything?
+    - no

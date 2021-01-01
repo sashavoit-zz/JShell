@@ -1,0 +1,48 @@
+//Sprint 3 Backlog.  
+1st July to 8th July
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a User, save a current working directory to the top of directory stack 
+and move to a specified directory (at current working directory, at a relative
+path or at full path) using pushd command										
+b) As a User, switch current working directory to the top directory in the	
+directory stack and remove it from the top of the stack using popd command	
+c) As a User, get the list of specified number of recently
+executed commands using history command	
+d) As a User, get the documentation for specified command using man command
+
+Specific tasks to be accomplished:
+a-1. (Pushd) Start and finish pushd command
+a-2. (Pushd) Perform basic testing of pushd command
+b-1. (Popd) Start and finish popd command
+b-2. (Popd) Perform basic testing of popd command
+c-1. (History) Start and finish history command
+c-2. (History) Perform basic testing of history command
+d-1. (Man) Improve output info of Man
+generic-1. (Error) Make error messages more explicit
+generic-2. (Error, all commands) Make isValid method return an error message 
+generic-3. (all classes) Make sure formatting and style are followed
+generic-4. (Path, FileSystem) Rethink the design of Path and FileSystem to make it more straightforward to use
+generic-5. (CRC Cards) Make sure the CRC Cards are up to date
+generic-6. (Mkdir, Ls) Thoroughly test Mkdir, Ls
+generic-7. (Cat, Echo, Man) Thoroughly test Cat, Echo and Man
+generic-8. (Cd, Pwd, History) Thoroughly test Cd, Pwd and History
+generic-9. (Speak, Exit, Pushd, Popd) Thoroughly test Speak, Exit, Pushd and Popd
+generic-10. (Echo) Make redirection of output reusable by other classes 
+ 
+
+
+These tasks are assigned as follows:
+
+User: Sasha (Oleksandr)
+Tasks: generic-2, generic-4, generic-5, generic-6
+
+User: Raz
+Tasks: a-1, a-2, b-1, b-2, generic-9
+
+User: Sankalp
+Tasks: c-1, c-2, generic-8
+
+User: Kevin
+Tasks: generic-1, generic-10, d-1, generic-3, generic-7

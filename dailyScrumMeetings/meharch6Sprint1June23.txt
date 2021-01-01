@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Created and cleaned up the code for both the File and Error classes
+
+What do I plan to work on in the next three days?
+	- Creating and refining the code for the Cat, Echo and Man commands
+
+Am I blocked on anything?
+	- I need the FileSystem class to be fully implemented before Cat and Echo can be completed.

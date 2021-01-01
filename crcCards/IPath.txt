@@ -1,0 +1,9 @@
+Class name: IPath
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide method signatures for the methods that are to implemented by a Path and MockPath
+
+Collaborators:
+None

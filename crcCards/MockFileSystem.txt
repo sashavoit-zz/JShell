@@ -1,0 +1,11 @@
+Class name: MockFileSystem
+Parent class (if any): None
+Subclasses (if any): none
+
+Responsibilities:
+* Provide mock implementation of the methods in IFileSystem for testing
+
+Collaborators:
+MockDirectory
+MockFile
+MockShell

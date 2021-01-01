@@ -1,0 +1,13 @@
+Class name: Tree
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* display the contents of current file system tree in the form of diagram
+* append the contents of current file system tree in the form of diagram to the contents of given file
+* overwrite the contents of given file with the contents of current file system tree in the form of diagram
+* check if no arguments is specified
+
+Collaborators:
+* FileSystem
+* Shell

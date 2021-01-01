@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Began testing for History and Pwd commands.
+	- Fixed bug in History command, regarding Redirection.
+	- Fixed bugs in Rm and Tree command
+	- Implementing the Curl Command
+	
+What do I plan to work in the next three days?
+	- Finishing testing for History, Cd, Pwd, commands
+	- Start Testing for Rm, Tree Commands
+	
+
+Am I blocked on anything?
+    - No

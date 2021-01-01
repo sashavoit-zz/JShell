@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - worked on my tasks from Sprint 2:
+	- finished FileSystem and Path classes
+	- finished mkdir command
+
+What do I plan to work in the next three days?
+    - test mkdir command
+    - complete part of ls command and test it
+
+Am I blocked on anything?
+    - no

@@ -1,0 +1,9 @@
+Class name: MoveDirException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to move a directory into itself
+
+Collaborators:
+None

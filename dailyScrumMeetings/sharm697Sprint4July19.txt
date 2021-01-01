@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Added Redirection for Pwd, History commands
+	- Added first implementation of Rm and Tree commands
+	
+What do I plan to work in the next three days?
+	- Fixing bugs for Rm and Tree commands
+	- Adding unit testing for old commands (Pwd,History,Cd) commands and for
+	new commands (Rm and tree)
+	
+
+Am I blocked on anything?
+    - Figuring how to unit test for Pwd,History,Cd,Tree,Rm commands 
+    since they return void.

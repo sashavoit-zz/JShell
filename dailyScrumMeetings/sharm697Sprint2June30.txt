@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Tested out various cases for Cd and Pwd commands, fixing bugs wherever necessary
+	- Improving documentation for methods in Cd command
+	
+What do I plan to work in the next three days?
+	- Work on Implementing the History command
+	- Test History command for various cases
+	- Improve Error messages for Cd and Pwd commands
+
+Am I blocked on anything?
+    - No

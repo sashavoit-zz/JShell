@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+	- Added redirection capabilities to both the Cat and Man commands (May be updated if a general redirection function is implemented instead)
+	- Added the new required functionality to the Cat command (Reading multiple files, showing errors where appropriate and printing contents even if some files are bad)
+	- Began basic Unit testing for the Man command
+	- Updated and Added new errors to the error class
+	- Added a redirection validation method to the Redirection class to facilitate ease of access for other commands trying to use redirection
+	- Updated the Man command to be more efficient and clean while retaining functionality
+
+What do I plan to work on in the next three days?
+	- unit testing for Cat, Error, and Echo
+	- further unit testing for Man
+	- Continuing to update Errors across all code where appropriate
+
+Am I blocked on anything?
+	- Figuring out how to unit test for the run command since it returns void and is overridden. Our group is in discussion currently on how to do this.

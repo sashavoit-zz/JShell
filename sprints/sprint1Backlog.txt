@@ -1,0 +1,38 @@
+//Sprint 1 Backlog.  
+June 17 to June 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+1) As a User, exit the Shell using exit	command
+2) As a User, make directory in a working directory using mkdir command	
+3) As a User, make directory in a working directory at a relative path using mkdir command
+4) As a User, make directory in a working directory at a full path using mkdir command	
+5) As a User, get the full path to current working directory using pwd command		
+
+Specific tasks to be accomplished:
+a-1. (JShell) Finalize the design with CRC cards
+a-2. (JShell) Have the shell continually prompt the user for input
+a-3. (JShell) Add the ability of Shell to recognize commands
+b-1. (Command) Write the base code for the generic Command class
+b-2. (Directory) Write the base code for the Directory class
+b-3. (Path) Write the base code for the Path class
+b-4. (File) Write the base code for the File class
+c-1. (Error) Write the base code for the Error class
+c-2. (Mkdir) Write starter code for mkdir command
+c-3. (Pwd) Write starter code for pwd command
+
+
+
+These tasks are assigned as follows:
+
+User: Sasha
+Tasks: a-1, b-1, c-2, c-3
+
+User: Raz
+Tasks: a-1, a-2, a-3
+
+User: Sankalp
+Tasks: a-1, b-2, b-3
+
+User: Kevin
+Tasks: a-1, b-4, c-1

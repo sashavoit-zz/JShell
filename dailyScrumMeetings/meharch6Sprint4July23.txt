@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Finalized basic unit testing for the Cat and Man commands
+	- Began basic unit testing for the Echo command, as well as for the Error and Redirection classes
+	- Updated errors where appropriate
+
+What do I plan to work on in the next three days?
+	- Unit testing for all of my classes
+	- Ensuring that all code follows the correct formatting, style choices, etc.
+
+Am I blocked on anything?
+	- N/A

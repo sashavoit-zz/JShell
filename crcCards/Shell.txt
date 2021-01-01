@@ -1,0 +1,28 @@
+Class name: Shell
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* start a new shell session
+* read and recognizes the commands entered by a user
+* print outputs on the command to the shell
+* end current session when exit command is called
+* print error messages returned by commands
+
+Collaborators:
+* Command
+* Cat
+* Cd
+* Echo
+* Exit
+* History
+* Ls
+* Man
+* Mkdir
+* Popd 
+* Pushd
+* Pwd
+* Speak
+* FileSystem
+* UserData
+* Error

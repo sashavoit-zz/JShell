@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Improve the CRC Cards design with the team
+	- Came up with new ideas for sprint 2
+	- Started working on the userData class
+        - Got rid of all TODOs in my code
+ 
+What do I plan to work on in the next three days?
+	- Finish my tasks for sprint 2 (userData class, exit command, speak command) 
+        - Test my classes
+	- Help my team members and find ways to improve their code for sprint 2.
+
+Am I blocked on anything?
+	- No

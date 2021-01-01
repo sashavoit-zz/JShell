@@ -1,0 +1,13 @@
+Class name: UserData
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* store the user's command history
+* get the user's command history
+* store working directory
+* get working directory
+* stores directory stack
+
+Collaborators:
+none

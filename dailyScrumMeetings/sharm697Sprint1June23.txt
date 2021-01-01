@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - worked on initial implementation of Directory class
+    - re-thought design of Directory, FileSystem, FileSystemNode,File with team
+
+
+What do I plan to work in the next three days?
+    - add crcCard for FileSystemNode class
+    - update code and crcCards of Directory and File class to reflect new design
+    - Add FileSystemNode Class
+    - Test Directory, FileSystemNode,File to make sure everything is working fine
+    - Start implementing code for new tasks in Sprint two (cd command and pwd command)
+    
+     
+
+Am I blocked on anything?
+    - Not right now.

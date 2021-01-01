@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- Added proper documentation
+	- Improved the design of the code
+	- Tested the shell throughly
+
+What do I plan to work on in the next three days?
+	- Finish the Pushd command
+	- Finish the Popd command
+	- Throughly test Pushd, Popd, speak and exit
+
+Am I blocked on anything?
+	- No

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Implemented Curl command
+	- Refactored Pwd,History and Rm classes so that it fits the new exception
+	style of error catching
+	- Continued unit testing for commands
+	
+What do I plan to work in the next three days?
+	- Work on Unit testing all my commands
+	- Fix any bugs that I find in my commands
+	- Add/Improve Documentation wherever necessary.
+	
+Am I blocked on anything?
+    - No

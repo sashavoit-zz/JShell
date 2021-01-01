@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Added junit test for exit
+	- Added many exceptions
+
+What do I plan to work on in the next three days?
+	- Add JUnit tests for userData, Shell, find, mv, cp.
+	- Test everything very throughtly.
+
+Am I blocked on anything?
+	- N/A

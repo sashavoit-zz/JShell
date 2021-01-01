@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Brainstormed and finalized CRC cards and design with team
+
+What do I plan to work on in the next three days?
+	- Creating the base code for File and Error
+
+Am I blocked on anything?
+	- N/A

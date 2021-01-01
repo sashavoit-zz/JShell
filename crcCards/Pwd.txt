@@ -1,0 +1,15 @@
+Class name: Pwd
+Parent class (if any): Command
+Subclasses (if any): -
+
+Responsibilities:
+* print the full path to current working directory
+* overwrite the contents of given file with the full path to current working directory
+* append the full path to current working directory to the contents of given file
+* check if unneeded arguments were entered
+
+Collaborators:
+* Path
+* Shell
+* UserData
+* Redirection

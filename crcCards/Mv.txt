@@ -1,0 +1,13 @@
+Class name: Mv
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* move item at full or relative path to a new location at full or relative path
+* check if arguments are valid arguments for mv command
+
+Collaborators:
+* Path
+* FileSystemNode
+* FileSystem
+* Shell

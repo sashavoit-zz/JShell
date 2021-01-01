@@ -1,0 +1,9 @@
+Class name: InvalidUrlException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user enters an url that is not valid for parsing
+
+Collaborators:
+None

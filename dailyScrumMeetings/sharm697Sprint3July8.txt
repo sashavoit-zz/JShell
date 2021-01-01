@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Re factored code for History, Cd, Pwd commands to fit the new standard for testing Errors
+	- Added Formatting and JavaDoc for Directory,FileSystemNode, Cd, Pwd,History classes
+	- Added nameChecker for Directory class to ensure directories aren't made with invalid names
+	
+What do I plan to work in the next three days?
+	- Nothing related to this assignment
+	- Review B07 Concepts such as UnitTesting to prepare for part B.
+
+Am I blocked on anything?
+    - No

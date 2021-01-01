@@ -1,0 +1,14 @@
+Class name: History
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* print out the most recent commands entered by the user, including commands resulting in 
+error following the order in which they were entered
+* overwrite contents of file with recent commands entered by the user
+* append recent commands entered by the user to contents of given file
+
+Collaborators:
+* Shell
+* UserData
+* Redirection

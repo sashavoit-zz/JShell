@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - started making mock versions of core classes, that are needed for unit testing
+    - made unit testing possible by implementing dependency injection pattern for each command
+    - made FileSystem a singleton
+
+What do I plan to work in the next three days?
+    - finish implementing mock versions of core classes for unit testing
+    - implement save and load commands
+    - start unit testing my classes: Mkdir, Ls, FileSystem, Path   
+
+Am I blocked on anything?
+    - no

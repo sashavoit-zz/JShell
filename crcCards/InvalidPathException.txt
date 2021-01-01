@@ -1,0 +1,9 @@
+Class name: InvalidPathException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user enters a path that is invalid
+
+Collaborators:
+None

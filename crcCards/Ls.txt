@@ -1,0 +1,19 @@
+Class name: Ls
+Parent class (if any): Command
+Subclasses (if any): -
+
+Responsibilities:
+* check validity of given arguments
+* print the contents of the current directory
+* print the contents of directory at specified location
+* print the path to the file at specified location
+* overwrite the contents of given file with contents of directory(ies)/path to file(s)
+* recursively list all subdirectories of given directory (at full or relative path)
+* append contents of directory(ies)/path to file(s) to the contents of given file
+
+Collaborators:
+* Directory
+* Path
+* FileSystem
+* FileSystemNode
+* Redirection

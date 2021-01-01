@@ -1,0 +1,9 @@
+Class name: EmptyStackException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to pop a directory from an empty stack
+
+Collaborators:
+None

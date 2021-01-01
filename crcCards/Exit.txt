@@ -1,0 +1,10 @@
+Class name: Exit
+Parent class (if any): Command
+Subclasses (if any): none
+
+Responsibilities:
+* quit the shell
+* check if unneeded arguments were entered
+
+Collaborators:
+* Shell

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Continued Unit testing for all of my classes
+	- Fixed various issues related to Exceptions and commands running properly
+	- Created and implemented various mock classes to facilitate smooth independent testing
+
+What do I plan to work on in the next three days?
+	- Finishing up unit testing for all of my classes
+	- Cleaning up the code across all files, standardizing formatting, etc.
+
+Am I blocked on anything?
+	- N/A

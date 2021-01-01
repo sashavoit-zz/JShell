@@ -1,0 +1,81 @@
+//Sprint 5 Backlog.  
+July 24 to August 2
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Save the path to current working directory to a file using pwd command
+b) Save the contents of the directory to a file using ls command	
+c) Print the the current file tree using tree command				
+d) Save history of executed commands to a file using history command	
+e) Save the documentation for given command to a file using man command	
+f) Look for nodes of given type at given location with given name using find command
+g) Create multiple directories using a single mkdir command	
+h) Remove directory from the file system tree using rm
+i) List contents of multiple files using cat
+j) Move node at given path to the new location at given path using mv
+k) Copy node at given path to the new location at given path using cp
+l) Retrieve the file at the URL and add it to the current working directory using curl	
+m) Save the current state of Shell to a file in the computer's memory
+n) Load the state of Shell from existing file in the computer's memory
+o) As a User, exit the Shell using exit	command	
+p) As a User, get an audible form of a String using speak command
+q) As a User, switch working directory to specified directory in current working directory using cd command	
+e) As a User, save a current working directory to the top of directory stack and move to a specified directory (at current working directory, at a relative path or at full path) using pushd command	
+s) As a User, switch current working directory to the top directory in the directory stack and remove it from the top of the stack using popd command
+t) As a User, get the contents of listed files concatenated using cat command using cat command
+u) As a User, overwrite the contents of a specified file with a specified string using echo command
+
+
+Specific tasks to be accomplished:
+generic-1. (CRC Cards) Make sure the CRC Cards are up to date
+generic-2. (all) Make sure the code style requirements are followed
+generic-3. (jShell.mockClasses) Finish implementing mock versions of classes in jShell package
+generic-4. (DirectoryTest) Add thorough unit testing for Directory class
+generic-5. (ErrorTest) Add thorough unit testing for Error class
+generic-6. (FileTest) Add thorough unit testing for File class
+generic-7. (FileSystemTest) Add thorough unit testing for FileSystem class
+generic-8. (OutputFileTest) Add thorough unit testing for OutputFile class
+generic-9. (PathTest) Add thorough unit testing for Path class
+generic-10. (RedirectionTest) Add thorough unit testing for Redirection class
+generic-11. (ShellTest) Add thorough unit testing for Shell class
+generic-12. (UserDataTest) Add thorough unit testing for UserData class
+generic-13. Add throw exceptions for all commands to improve the design of error handling and make the process more efficient 
+a-1. (PwdTest) Add thorough unit testing for pwd command
+b-1. (LsTest) Add thorough unit testing for ls command
+c-1. (TreeTest) Add thorough unit testing for tree command
+d-1. (HistoryTest) Add thorough unit testing for history command
+e-1. (ManTest) Add thorough unit testing for man command
+f-1. (FindTest) Add thorough unit testing for find command
+g-1. (MkdirTest) Add thorough unit testing for mkdir command
+h-1. (RmTest) Add thorough unit testing for rm command
+i-1. (CatTest) Add thorough unit testing for cat command
+j-1. (MvTest) Add thorough unit testing for mv command
+k-1. (CpTest) Add thorough unit testing for cp command
+l-1. (Curl) Implement curl command
+l-2. (CurlTest) Add thorough unit testing for curl command
+m-1. (Save) Implement save command
+m-2. (SaveTest) Add thorough unit testing for save command
+n-1. (Load) Implement load command
+n-2. (LoadTest) Add thorough unit testing for load command
+o-1. (ExitTest) Add unit testing for exit command
+p-1. (Speak) Add the speak command back
+q-1. (CdTest) Add thorough unit testing for cd command
+r-1. (Pushd) Add thorough unit testing for pushd command
+s-1. (Popd) Add thorough unit testing for popd command
+t-1. (CatTest) Add thorough unit testing for cat command
+u-1. (EchoTest) Add thorough unit testing for echo command
+
+
+
+These tasks are assigned as follows:
+
+User: Sasha (Oleksandr)
+Tasks: generic-3, generic-7, generic-9, b-1, g-1, m-1, m-2, n-1, n-2
+
+User: Raz
+Tasks: generic-12, generic-13, f-1, j-1, k-1, o-1, p-1, r-1, s-1
+
+User: Sankalp
+Tasks: generic-1, generic-4, a-1, c-1,,d-1,h-1, l-1, l-2, q-1
+
+User: Kevin
+Tasks: generic-2, generic-5, generic-6, generic-8, generic-10, generic-11, e-1, t-1, u-1

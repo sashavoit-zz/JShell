@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - wrote base code for Command, Pwd and Mkdir classes
+    - communicated with the team rethinking the design of file system
+
+What do I plan to work in the next three days?
+    - work on new tasks for sprint 2
+        - start and finish code for Path class and FileSystem class
+
+Am I blocked on anything?
+    - need FileSystemNode and Directory to be finilized to work on FileSystem

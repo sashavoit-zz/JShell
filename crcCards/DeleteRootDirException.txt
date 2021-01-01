@@ -1,0 +1,9 @@
+Class name: DeleteRootDirException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to delete the root Directory
+
+Collaborators:
+None

@@ -1,0 +1,9 @@
+Class name: NegativeNumberException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to use History with a negative number
+
+Collaborators:
+None

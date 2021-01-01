@@ -1,0 +1,9 @@
+Class name: IFileSystem
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide method signatures for methods to be implemented by FileSystem and MockFileSysetm
+
+Collaborators:
+None

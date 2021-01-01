@@ -1,0 +1,18 @@
+Class name: Find
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* print nodes with given name and given type among given path/paths
+* append nodes with given name and given type among given path/paths to the contents of given file
+* overwrite the contents of given file with nodes with given name and given type among given path/paths
+* check if arguments are valid arguments for find command
+
+Collaborators:
+* Path
+* FileSystemNode
+* FileSystem
+* Directory
+* File
+* Shell
+* Redirection

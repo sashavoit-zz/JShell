@@ -1,0 +1,9 @@
+Class name: IUrlDataFetcher
+Parent class (if any): None
+Subclasses (if any): none
+
+Responsibilities:
+* Provide method signatures for methods to be implemented by UrlDataFetcher and MockURLDataFetcher
+
+Collaborators:
+None

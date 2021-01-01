@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Fixed bugs in Curl and History
+	- Refactored Curl command into Interface, UrlDataFetcher and Mockclass for Testing
+	- Finished unit testing for Pwd, History, Rm, Cd, Tree commands
+	
+What do I plan to work in the next three days?
+	- Add Documentation to Unit test classes and anywhere else that I've missed
+	- Implement tests for Directory and Curl
+	- Fix any bugs that I come across for my commands.

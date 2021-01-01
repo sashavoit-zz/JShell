@@ -1,0 +1,9 @@
+Class name: UnknownErrorException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown if unknown error occurs when trying to perform a command
+
+Collaborators:
+None

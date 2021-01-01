@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Created and began basic testing on the Cat and Echo commands
+	- Created and finished coding and testing the Man commadn
+
+What do I plan to work on in the next three days?
+	- Finalizing the code and finishing thorough testing for the Cat and Echo commands
+	- Updating Error messages across all code to clarify each specific instance of an error occurring
+
+Am I blocked on anything?
+	- There are some issues within the FileSystem and Directory classes related to constructing these objects that are preventing complete testing from taking place.

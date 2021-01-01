@@ -1,0 +1,9 @@
+Class name: ArgsException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when command receives Invalid Argument type 
+
+Collaborators:
+None

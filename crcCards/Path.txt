@@ -1,0 +1,23 @@
+Class name: Path
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* check if two paths are equal
+* create a copy of given path
+* check if path is a valid location in current file tree
+* check if path has valid format
+* determine if valid path points directory or file
+* convert relative path to full path
+* get rid of .. and . in the given path
+* divide path into the sequence of directories/files
+* get path of parent directory
+* get the name of bottom file/directory of path
+* append new file/directory to the bottom of the path
+
+Collaborators:
+* Shell
+* File
+* FileSystem
+* Directory
+* FileSystemNode

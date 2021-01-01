@@ -1,0 +1,11 @@
+Class name: Popd
+Parent class (if any): Command
+Subclasses (if any): none
+
+Responsibilities:
+* remove the top path from the directory stack, and go into it
+* check if current stack is empty
+
+Collaborators:
+* Shell
+* UserData

@@ -1,0 +1,11 @@
+Class name: MockUserData
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide mock implementation of the methods in IUserData for testing
+*
+
+Collaborators:
+MockShell
+Path

@@ -1,0 +1,14 @@
+Class name: FileSystemNode
+Parent class: 
+Subclasses: Directory, File
+
+Responsibilities:
+* create a new node with given name or with given name and location in the file tree
+* change the name of the node
+* get the name of the node
+* set the path to the node in the file system tree
+* get the path to the node in the file system tree
+* check if string is a valid name for a file or directory
+
+Collaborators:
+* Path

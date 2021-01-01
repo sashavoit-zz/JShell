@@ -1,0 +1,12 @@
+Class name: Save
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* save the state of Shell to the file at the given path in the computer's memory
+
+Collaborators:
+* Path
+* FileSystem
+* UserData
+* Shell

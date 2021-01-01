@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Implemented and tested History Command
+	- Improved code for Cd command, fixing some unnecessary code
+	
+What do I plan to work in the next three days?
+	- Incorporating new way of writing Error Messages for the History, Cd and Pwd commands
+	- Writing properly formatted documentation for Cd,Pwd, History, Directory,FileSystemNode classes,
+	  in line with the proper JavaDoc format.
+	- Make sure methods follow the 30 line limit
+	- Add nameChecker for Directory, update CRCcard with new responsibilities if needed
+
+Am I blocked on anything?
+    - No

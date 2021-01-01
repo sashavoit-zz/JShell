@@ -1,0 +1,9 @@
+Class name: NodeExistsException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when trying to  Redirect output into a directory with the same name
+
+Collaborators:
+None

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Updated the error message outputs across all code files
+	- Improved the outputs of the man command to be more detailed
+
+What do I plan to work on in the next three days?
+	- Testing the Cat, Echo and Man commands, making changes to the code when necessary
+	- Ensuring that the same formatting has been followed across all files
+
+Am I blocked on anything?
+	- N/A

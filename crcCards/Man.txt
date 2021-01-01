@@ -1,0 +1,11 @@
+Class name: Man
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* print out documentation for a command entered by user
+* check if given argument is a valid command
+
+Collaborators:
+* Shell
+* Command

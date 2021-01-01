@@ -1,0 +1,9 @@
+Class name: RedirectionException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to redirect output with invalid arguments
+
+Collaborators:
+None

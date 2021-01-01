@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - worked on my personal tasks for sprint 4:
+        - added toString method for the FileSystem class
+        - added ability of mkdir to work with multiple arugments
+        - added ability of ls to list contents recursively
+        - added ability of ls to redirect output to a file
+    - brainstormed ideas for new design with my teammates
+    - updated CRC cards to reflect new design
+
+What do I plan to work in the next three days?
+    - add unit tests for mkdir and ls commands
+    - add redirection of output for tree command and add unit tests for the redirection of tree command
+    
+
+Am I blocked on anything?
+    - waiting for tree command to be implemented

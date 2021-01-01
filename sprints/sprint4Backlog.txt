@@ -1,0 +1,72 @@
+//Sprint 4 Backlog.  
+July 17 to July 23
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Save the path to current working directory to a file using pwd command
+b) Save the contents of the directory to a file using ls command	
+c) Print the the current file tree using tree command
+d) Save the current file system tree to a file using tree command					
+e) Save history of executed commands to a file using history command	
+f) Save the documentation for given command to a file using man command	
+g) Look for nodes of given type at given location with given name using find command
+h) Save for nodes of given type	at given location with given name using find command
+i) Create multiple directories using a single mkdir command	
+j) Remove directory from the file system tree using rm
+k) Recursively list all subdirectories 	of given directory using ls with -R option
+l) List contents of multiple files using cat
+m) Save contents of multiple files and save it to a file using cat command
+n) Move node at given path to the new location at given path using mv
+o) Copy node at given path to the new location at given path using cp 
+
+Specific tasks to be accomplished:
+generic-1. Brainstorm design changes
+generic-2. (CRC Cards) Update CRC cards
+generic-3. (Error) Add more errors to Error class
+generic-4. (Redirection) Add ability of Redirection to check whether redirection is happening
+a-1. (Pwd) Implement redirection of output for pwd command
+a-2. (PwdTest) Add basic unit testing for new pwd command
+b-1. (Ls) Implement redirection of output for ls command
+b-2. (LsTest) Add basic unit testing for new ls command
+c-1. (FileSystem) Add toString, which would return a string representing of file system
+c-2. (Tree) Implement tree command, which would output a a string representing of file system
+c-3. (TreeTest) Add basic unit testing for new tree command
+d-1. (Tree) Implement redirection of output for tree command
+d-2. (TreeTest) Add additional unit testing for redirection of tree command
+e-1. (History) Implement redirection of output for history command
+e-2. (HistoryTest) Add basic unit testing for new history command
+f-1. (Man) Implement redirection of output for man command
+f-2. (Man) Add manuals for new commands to man
+f-3. (ManTest) Add basic unit testing for new man command
+g-1. (Find) Implement find command, which would look for nodes of given type at given location
+g-2. (FindTest) Add basic unit testing of find
+h-1. (Find) Implement redirection of output for find command
+h-2. (FindTest) Add unit testing redirection of output for find command
+i-1. (Mkdir) Add the ability of mkdir to work with multiple arguments.
+i-2. (MkdirTest) Add basic unit testing for mkdir command
+j-1. (Rm) Create rm command, which would delete nodes from file system
+j-2. (RmTest) Add basic unit testing for rm command
+k-1. (Ls) Add ability of ls to recursively list subdirectories
+k-2. (LsTest) Add basic unit testing for new ls command
+l-1. (Cat) Add ability of cat to read multiple files
+l-2. (CatTest) Add basic unit testing for new cat command
+m-1. (Cat) Implement redirection of output for cat command
+m-2. (CatTest) Add more unit testing for the redirection of cat
+n-1. (Mv) Create a new command mv, which would move node to the given location
+n-2. (MvTest) Add basic unit testing for new mv command
+o-1. (Cp) Create a new command cp, which would copy node to the given location
+o-2. (CpTest) Add basic unit testing for new cp command
+
+
+These tasks are assigned as follows:
+
+User: Sasha (Oleksandr)
+Tasks: generic-1, generic-2, b-1, b-2, c-1, d-1, d-2, i-1, i-2, k-1, k-2
+
+User: Raz
+Tasks: generic-1, generic-2, g-1, g-2, h-1, h-2, n-1, n-2, o-1, o-2
+
+User: Sankalp
+Tasks: generic-1, generic-2, a-1, a-2, e-1, e-2, j-1, j-2, c-2, c-3
+
+User: Kevin
+Tasks: generic-1, generic-2, generic-3, generic-4, f-1, f-2, f-3, l-1, l-2, m-1, m-2

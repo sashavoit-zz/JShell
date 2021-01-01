@@ -1,0 +1,10 @@
+Class name: Command
+Parent class: none
+Subclasses: Cat, Cd, Echo, Exit, History, Ls, Man, Mkdir, Popd, Pushd, 
+	    Pwd, Speak, Rm, Mv, Cp, Curl, Save, Load, Find
+
+Responsibilities:
+* as an abstract class, declare methods to be implemented by commands
+
+Collaborators:
+none

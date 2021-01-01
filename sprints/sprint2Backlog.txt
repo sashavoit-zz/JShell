@@ -1,0 +1,59 @@
+//Sprint 2 Backlog.  
+June 24 to June 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a User, exit the Shell using exit command
+b) As a User, get an audible form of a String using speak command
+c) As a User, make directory in a working directory using mkdir command
+d) As a User, make directory in a working directory at a relative path using mkdir command
+e) As a User, make directory in a working directory at a full path using mkdir command
+f) As a User, switch working directory to specified directory in current working directory using cd command
+g) As a User, switch working directory to specified directory at relative path using cd command
+h) As a User, switch working directory to specified directory at full path using cd command
+i) As a User, get the full path to current working directory using pwd command
+j) As a User, get the contents of listed files concatenated using cat command
+k) As a User, print specified string to the Shell using echo command	
+l) As a User, overwrite the contents of a specified file with a specified string using echo command
+m) As a User, create the new file at given path and put a given string inside using echo command	
+n) As a User, get the documentation for specified command using man command
+o) As a User, get the contents of working directory using ls command
+
+
+Specific tasks to be accomplished:
+a-1. (Exit) Start and finish exit command
+a-2. (Exit) Perform basic testing to exit command
+b-1. (Speak) Write base code for speak command
+b-2. (Speak) Perform basic testing for current speak command functionality
+cde-1. (File, Directory, FileSystemNode, CRC Cards) Redesign File and Directory by adding FileSystemNode parent class
+cde-2. (Path) Finish code for the Path class
+cde-3. (FileSystem) Finish code for the FileSystem class
+cde-4. (Mkdir) Finish mkdir command and perform basic testing
+fgh-1. (Cd) Start and finish code for cd command
+fgh-2. (Cd) Perform basic testing of cd command
+i-1. (UserData) Add UserData class that would store current working directory and history of executed commands
+i-2. (Pwd) Finish pwd command
+i-3. (Pwd) Perform basic testing of pwd command
+j-1. (Cat) Start and finish cat command
+j-2. (Cat) Perform basic testing of cat command
+klm-1. (Echo) Start and finish echo command
+klm-2. (Echo) Perform basic testing of echo command
+n-1. (Man) Write base code for man command
+n-2. (Man) Perform basic testing for current man functionality
+o-1. (Ls) Write base code for ls command
+o-2. (Ls) Perform basic testing for current ls command funtionality
+
+
+These tasks are assigned as follows:
+
+User: Sasha (Oleksandr)
+Tasks: cde-2, cde-3, cde-4, o-1, o-2
+
+User: Raz
+Tasks: i-1, a-1, a-2, b-1, b-2
+
+User: Sankalp
+Tasks: cde-1, g-1, g-2, i-2, i-3
+
+User: Kevin
+Tasks: klm-1, klm-2, j-1, j-2, n-1, n-2

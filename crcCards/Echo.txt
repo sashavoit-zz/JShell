@@ -1,0 +1,16 @@
+Class name: Echo
+Parent class (if any): Command
+Subclasses (if any): none
+
+Responsibilities:
+* check validity of given arguments; output an error if arguments are invalid
+* delete the contents of a file and put a string in a file (if file exists)
+* if the file does not exist, create a new file, and put the string inside. 
+* append a string to a file (if the file exists).
+
+Collaborators:
+* OutputFile
+* Path
+* Shell
+* Error
+* Redirection

@@ -1,0 +1,9 @@
+Class name: InputModeCommand
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide method signatures for methods that reads multiline input
+
+Collaborators:
+None

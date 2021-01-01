@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Finished the Pushd class
+	- Finished the Popd class
+	- Tested speak, exit, pushd, and popd throughly.
+
+What do I plan to work on in the next three days?
+	- Work on and the test the isValid funciton
+	- Test the entire shell with my teammates.
+
+Am I blocked on anything?
+	- No

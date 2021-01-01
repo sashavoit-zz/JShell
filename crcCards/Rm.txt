@@ -1,0 +1,13 @@
+Class name: Rm
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* remove directory at given path from the file system tree
+* check if arguments are valid arguments for rm command
+
+Collaborators:
+* Directory
+* Path
+* FileSystem
+* Shell

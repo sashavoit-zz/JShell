@@ -1,0 +1,9 @@
+Class name: BadFileNameException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user tries to uses a create a file with an invalid name
+
+Collaborators:
+None

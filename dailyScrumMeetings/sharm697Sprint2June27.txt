@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+	- Implemented Redesign of Directory, FileSystemNode class
+	- Incorporated changes of redesign in File class
+	- Added crcCard for FileSystemNode class, modified crcCard cards for Directory and File Classes
+	- Implemented Cd and Pwd classes
+	
+What do I plan to work in the next three days?
+    - test out Cd and Pwd classes to make sure it works for all cases
+    - Improve design of Cd and Pwd classes if needed
+    - Improve documentation of Directory, FileSystemNode, Cd and Pwd classes
+    
+     
+
+Am I blocked on anything?
+    - Not right now.

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - worked on my tasks from Sprint 3:
+	- improved design of Path and FileSystem by creating methods that work with full path as well as relative path
+	- made isValid method in command classes return invalid arguments and error codes
+
+What do I plan to work in the next three days?
+    - making sure CRC cards correspond to current design of project
+    - thorough testing of mkdir and ls commands
+
+Am I blocked on anything?
+    - no

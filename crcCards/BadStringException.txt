@@ -1,0 +1,9 @@
+Class name: BadStringException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user doesn't format a string properly
+
+Collaborators:
+None

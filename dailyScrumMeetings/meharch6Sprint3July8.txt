@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Tested and finalized the code for the Cat, Man and Echo commands
+	- Standardized formatting across all code files
+	- Added the proper documentation to the appropriate methods, classes and files where necessary
+
+What do I plan to work on in the next three days?
+	- Other class work, probably
+	- The lab for this week's tutorial
+
+Am I blocked on anything?
+	- N/A

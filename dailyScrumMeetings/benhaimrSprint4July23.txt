@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Started testing the mv and cp commands
+	- Finished the find command
+	- Improved the design of the shell
+
+What do I plan to work on in the next three days?
+	- Add JUnit tests for exit, userData, Shell, find, mv, cp.
+	- Add more excpetions to make the error handling more efficient for all commands.
+
+Am I blocked on anything?
+	- N/A

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Finished coding the userData class
+	- Finishd coding the Exit class
+	- Finished coding the Speak class
+	- Helped my team members to imrpove some aspcts of their designs 
+
+What do I plan to work on in the next three days?
+	- Test the commands effectively
+	- Add proper documentation
+	- Keep improving the design
+
+Am I blocked on anything?
+	- No

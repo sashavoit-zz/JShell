@@ -1,0 +1,9 @@
+Class name: SuccessorExcpetion
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* get thrown when trying to move/copy a node to its successor
+
+Collaborators:
+None

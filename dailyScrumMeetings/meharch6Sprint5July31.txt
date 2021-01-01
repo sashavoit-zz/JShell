@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Completed unit testing for all of my classes
+	- Fixed any remaining bugs and issues with my commands
+	- Began standardizing formatting and style across all files
+
+What do I plan to work on in the next three days?
+	- Finish standardizing formatting and style across all files
+
+Am I blocked on anything?
+	- N/A

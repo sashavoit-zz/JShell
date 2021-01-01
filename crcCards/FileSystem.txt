@@ -1,0 +1,20 @@
+Class name: FileSystem
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* create new file tree
+* add new directory to the file system tree
+* add new file to the file system tree
+* get the reference to the directory in the file system tree
+* get the reference to the file in the file system tree
+* get the reference to parent directory of given file or directory
+* get the string representation of contents of current file system tree
+
+Collaborators:
+* Shell
+* UserData
+* File
+* Directory
+* Path
+* Error

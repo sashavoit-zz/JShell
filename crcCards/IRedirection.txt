@@ -1,0 +1,9 @@
+Class name: IRedirection
+Parent class (if any): 
+Subclasses (if any): none
+
+Responsibilities:
+* Provide method signatures for methods to be implemented by Redirection and MockRedirection
+
+Collaborators:
+None

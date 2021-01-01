@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - started implementing mock versions of core classes for unit testing
+    - implement save and load commands
+    - started unit testing my classes: Mkdir, Ls, FileSystem, Path   
+
+What do I plan to work in the next three days?
+    - finish implementing mock versions of core classes for unit testing
+    - finish thorough testing of my classes: Mkdir, Ls, FileSystem, Path, Save and Load
+    - fix any encountered bugs in my classes: Mkdir, Ls, FileSystem, Path, Save and Load
+
+Am I blocked on anything?
+    - no

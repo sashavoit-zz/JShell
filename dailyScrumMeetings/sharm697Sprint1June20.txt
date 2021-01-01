@@ -1,0 +1,9 @@
+What did I do last time?
+   - Worked with team to create Sprint1Backlog and Product Backlog
+   - Worked with team to create design of the shell program
+
+What do I plan to do now?
+    - Work on implementing the Directory and Path Classes
+
+Am I blocked on anything?
+	- Not currently

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - communicated with the team to brainstorme ideas for design of CRC cards
+    - finilized first version of CRC cards
+
+What do I plan to work in the next three days?
+    - work on new tasks for sprint 1
+        - write started code for Command, MkDir and Pwd
+
+Am I blocked on anything?
+    - No

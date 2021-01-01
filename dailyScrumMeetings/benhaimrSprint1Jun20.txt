@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Finalized CRC Cards with the team
+	- a-2. (JShell) Have the shell continually prompt the user for input
+        - a-3. (JShell) Add the ability of Shell to recognize commands
+ 
+What do I plan to work on in the next three days?
+	- Brainstorming and coming up with ideas for the next sprint
+        - Connecting the team's code with my existing code (mainly the path class and the directory class), also get rid of all the TODOs in the code
+
+Am I blocked on anything?
+	- No

@@ -1,0 +1,13 @@
+Class name: Cat
+Parent class (if any): Command
+Subclasses (if any): none
+
+Responsibilities:
+* output the contents of a file or multiple files to the shell (either in the current directory or at a given path) 
+* overwrite contents of given file with contents file or multiple files
+* append contents of file or multiple files to the contents of given file
+* check validity of given arguments
+
+Collaborators:
+* Path
+* Redirection

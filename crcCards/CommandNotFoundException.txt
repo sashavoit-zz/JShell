@@ -1,0 +1,9 @@
+Class name: CommandNotFoundException
+Parent class (if any): Error
+Subclasses (if any): none
+
+Responsibilities:
+* thrown when user enters an invalid command
+
+Collaborators:
+None

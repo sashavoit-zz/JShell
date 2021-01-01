@@ -1,0 +1,13 @@
+Class name: Curl
+Parent class: Command
+Subclasses: none
+
+Responsibilities:
+* download a file from a given address on the web and save it to current working directory
+* Overwrite a file's contents 
+* check if arguments are valid arguments for curl command
+
+Collaborators:
+* File
+* Directory
+* Shell

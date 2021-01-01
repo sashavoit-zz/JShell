@@ -1,0 +1,11 @@
+Class name: File
+Parent class: FileSystemNode
+Subclasses: OutputFile
+
+Responsibilities:
+* create new file with given name or with given name and location in the file tree
+* get the contents of the file
+* set the contents of the file to a given string
+
+Collaborators:
+none

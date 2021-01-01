@@ -1,0 +1,10 @@
+Class name: Error
+Parent class: none
+Subclasses: none
+
+Responsibilities:
+* store error codes and error messages
+* return the error message correspoding to an error code
+
+Collaborators:
+none

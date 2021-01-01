@@ -1,0 +1,16 @@
+Class name: Directory
+Parent class: FileSystemNode
+Subclasses: none
+
+Responsibilities:
+* create a new directory with given name or with given name and location in the file tree
+* add new child directory to the contents of directory
+* add new child file to the contents of directory
+* check if given file or directory is a child of the directory
+* return all children files/directories of the directory
+
+Collaborators:
+* File
+* FileSystemNode
+* Path
+* Error
