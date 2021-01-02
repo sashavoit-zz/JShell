@@ -83,15 +83,13 @@ public class Curl extends Command {
    * @throws NodeExistsException, RedirectionOperatorsException,
    * @throws RedirectionOperatorsException error when not using redirection operators properly
    * @throws FileNotFoundException file not found for redirection
-   * @throws UnknownErrorException shouldn't occur
-   * 
    */
 
   @Override
   public String run(String[] args)
       throws ArgsNumberException, InvalidURLException, BadFileNameException,
       InvalidPathException, NodeExistsException, RedirectionOperatorsException,
-      FileNotFoundException, UnknownErrorException {
+      FileNotFoundException {
     // catch errors right away
     argChecker(args);
     // special case of ending with a slash or any redirection errors

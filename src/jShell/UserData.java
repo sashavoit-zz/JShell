@@ -114,13 +114,14 @@ public class UserData implements IUserData, Serializable {
    * @return current directory
    * @throws UnknownErrorException (shouldn't occur)
    */
-  public IDirectory getCurDir() throws UnknownErrorException {
+  public IDirectory getCurDir() {
     try {
       return (IDirectory) IShell.getShell().getFileSystem()
           .getNodeAtPath(curPath);
     } catch (InvalidPathException e) {
-      throw new UnknownErrorException();
+      //Shouldn't ever happen
     }
+    return null;
   }
 
 }

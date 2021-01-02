@@ -70,7 +70,7 @@ public interface IUserData {
    * 
    * @return reference to current working directory
    */
-  public IDirectory getCurDir() throws UnknownErrorException;
+  public IDirectory getCurDir();
 
   /**
    * Method to get path stack
