@@ -12,7 +12,7 @@ JavaShell is a Unix Shell emulator application written in Java and run through t
 
 # Installation
 
-This is a Maven project. To install and run the application (assuming Maven is installed) open any folder and type 
+This is a Maven project. To install and run the application (assuming Maven is installed) open terminal at any folder and type 
 
 ```console
 foo@bar:~$ git clone https://github.com/sashavoit/JShell
