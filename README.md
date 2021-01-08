@@ -59,6 +59,8 @@ foo@bar:~$ mkdir DIRECTORY...
 
 Creates directory(ies) at given full or relative path(s).
 
+<img src="media/mkdir.gif" width="700">
+
 ### cd command
 
 ```console
