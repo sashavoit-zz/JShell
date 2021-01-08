@@ -2,7 +2,7 @@
 
 JavaShell is a Unix Shell emulator application written in Java and run through terminal. It provides functionality of main commands of Unix Shell, has it's own mock file system tree (where each node is file or directory), and capable of displaying appropriate error messages if used not properly.
 
-<img src="media/demo.gif" width="800">
+<img src="media/demo.gif" width="700">
 
 # Contents
 - [Installation](#installation)
@@ -34,12 +34,12 @@ Any command that has an output supports redirection to a file. Use > to overwrit
 ```console
 foo@bar:~$ COMMAND ARGUMENTS > FILE
 ```
-<img src="media/redirection-overwrite.gif" width="800">
+<img src="media/redirection-overwrite.gif" width="700">
 
 ```console
 foo@bar:~$ COMMAND ARGUMENTS >> FILE
 ```
-<img src="media/redirection-append.gif" width="800">
+<img src="media/redirection-append.gif" width="700">
 
 ### man command
 
@@ -49,7 +49,7 @@ foo@bar:~$ man COMMAND
 
 Prints out the documentation for a given COMMAND into the shell. Outputs error if COMMAND does not exist.
 
-<img src="media/man.gif" width="600">
+<img src="media/man.gif" width="700">
 
 ### mkdir command
 
@@ -67,7 +67,7 @@ foo@bar:~$ cd DIRECTORY
 
 Change current working directory to given directory.
 
-<img src="media/cd.gif" width="800">
+<img src="media/cd.gif" width="700">
 
 ### ls command
 
@@ -80,7 +80,7 @@ List contents of DIRECTORY, or a location of FILE. If no directory provided, pri
 Options:
 - -R list contents recursively 
 
-<img src="media/ls.gif" width="800">
+<img src="media/ls.gif" width="700">
 
 ### echo command
 
@@ -90,7 +90,7 @@ foo@bar:~$ echo "STRING"
 
 Outputs STRING. STRING must be surrounded by double quotes.
 
-<img src="media/echo.gif" width="800">
+<img src="media/echo.gif" width="700">
 
 ### cat command
 
@@ -100,7 +100,7 @@ foo@bar:~$ cat FILE...
 
 Outputs concatenation of contents of the file(s). 
 
-<img src="media/cat.gif" width="800">
+<img src="media/cat.gif" width="700">
 
 ### exit command
 
@@ -110,7 +110,7 @@ foo@bar:~$ exit
 
 End session of JShell.
 
-<img src="media/exit.gif" width="800">
+<img src="media/exit.gif" width="700">
 
 ### mv command
 
@@ -120,7 +120,7 @@ foo@bar:~$ mv SOURCE DEST
 
 Move file or directory at SOURCE to location at DEST.
 
-<img src="media/mv.gif" width="800">
+<img src="media/mv.gif" width="700">
 
 ### cp command
 
@@ -130,7 +130,7 @@ foo@bar:~$ cp SOURCE DEST
 
 Copy file or directory at SOURCE to location at DEST.
 
-<img src="media/cp.gif" width="800">
+<img src="media/cp.gif" width="700">
 
 ### rm command 
 
@@ -140,7 +140,7 @@ foo@bar:~$ rm DIRECTORY
 
 Deletes directory and all it's contents recursively.
 
-<img src="media/rm.gif" width="800">
+<img src="media/rm.gif" width="700">
 
 ### pushd command
 
@@ -150,7 +150,7 @@ foo@bar:~$ pushd DIRECTORY
 
 Pushes DIRECTORY onto a directory stack in memory.
 
-<img src="media/pushd.gif" width="800">
+<img src="media/pushd.gif" width="700">
 
 ### popd command
 
@@ -160,7 +160,7 @@ foo@bar:~$ pushd
 
 Changes current working to last directory from the directory stack in memory.
 
-<img src="media/popd.gif" width="800">
+<img src="media/popd.gif" width="700">
 
 ### pwd command
 
@@ -170,7 +170,7 @@ foo@bar:~$ pwd
 
 Prints full path to current working directory.
 
-<img src="media/pwd.gif" width="800">
+<img src="media/pwd.gif" width="700">
 
 ### history command
 
@@ -180,7 +180,7 @@ foo@bar:~$ history [N]
 
 Prints history of N last commands entered by user (including history command itself). If number N is not provided, print full history.
 
-<img src="media/history.gif" width="800">
+<img src="media/history.gif" width="700">
 
 ### tree command
 
@@ -190,7 +190,7 @@ foo@bar:~$ tree
 
 Prints file system tree starting at root directory recursively.
 
-<img src="media/tree.gif" width="800">
+<img src="media/tree.gif" width="700">
 
 ### save command
 
@@ -200,7 +200,7 @@ foo@bar:~$ save FILE
 
 Saves state of the JShell to FILE on the real hard drive of the computer. Can be loaded in the next session.
 
-<img src="media/save.gif" width="800">
+<img src="media/save.gif" width="700">
 
 ### load command
 
@@ -210,7 +210,7 @@ foo@bar:~$ load FILE
 
 Loads the state of the JShell from FILE on the real hard drive of the computer. Must be the first command after the start of the sesion.
 
-<img src="media/load.gif" width="800">
+<img src="media/load.gif" width="700">
 
 ### find command
 
@@ -220,7 +220,7 @@ foo@bar:~$ find PATH... -type TYPE -name "NAME"
 
 Looks for node of type TYPE (d or f) with name NAME at location(s) specified by PATH(s). 
 
-<img src="media/find.gif" width="800">
+<img src="media/find.gif" width="700">
 
 ### curl command
 
@@ -230,7 +230,7 @@ foo@bar:~$ curl URL
 
 Retrieves a file from URL and saves it to current working directory.
 
-<img src="media/curl.gif" width="800">
+<img src="media/curl.gif" width="700">
 
 # Credits
 
