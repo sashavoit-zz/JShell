@@ -1,6 +1,6 @@
 # JShell
 
-JavaShell is a Unix Shell emulator application written in Java and run through terminal. It provides functionality of main commands of Unix Shell, has it's own mock file system tree (where each node is file or directory), and capable of displaying appropriate error messages if used not properly.
+JShell is a Unix Shell emulator application written in Java and run through terminal. It provides functionality of main commands of Unix Shell, has it's own mock file system tree (where each node is file or directory), and capable of displaying appropriate error messages if used not properly.
 
 <img src="media/demo.gif" width="700">
 
